@@ -8,8 +8,8 @@ I am a computing lecturer and NLP researcher based in Pakistan, working with Pyt
 
 ## Featured work
 
-### [RAG Reliability Lab](https://github.com/Owais-Idrees/rag-reliability-lab)
-An offline-first Python project for building and evaluating reliable retrieval-augmented generation pipelines. It includes paragraph-aware chunking, BM25 retrieval, stable citations, grounded extractive answers, FastAPI and CLI interfaces, Docker support, automated tests and a GitHub Actions workflow. The included benchmark measures hit rate, MRR, precision@k and citation coverage.
+### [RAG Reliability Engine](https://github.com/Owais-Idrees/rag-reliability-engine)
+A production-oriented Python retrieval service for building and evaluating reliable retrieval-augmented generation pipelines. It includes paragraph-aware chunking, BM25 retrieval, stable citations, grounded extractive answers, FastAPI and CLI interfaces, Docker support, automated tests and a GitHub Actions workflow. The included benchmark measures hit rate, MRR, precision@k and citation coverage.
 
 ### [ResolveAI — Agent Arena](https://github.com/Owais-Idrees/ResolveAI-Agent-Arena)
 An instructor reference implementation for exploring agent reliability. It uses an explicit decide–validate–act–observe loop, LangChain tools, structured Pydantic decisions, bounded execution and a FastAPI endpoint. Includes sandbox tools and evaluation cases for teaching how agents act, retry and stop.
@@ -39,4 +39,4 @@ Notebook-based computational intelligence experiments and learning projects.
 - MS in Computer Science; doctoral studies in progress.
 - Co-author: *Roman Urdu Reviews Dataset for Aspect Based Opinion Mining*, IEEE/ACM ASEW, 2020.
 
-My repositories include teaching references, research resources and earlier learning projects. Their READMEs describe the intended scope; demonstrations should not be treated as production systems.
+My repositories include production-oriented engineering projects, teaching references, research resources and earlier learning work. Each README states its intended scope and operational limits.
