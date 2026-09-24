@@ -8,6 +8,9 @@ I am a computing lecturer and NLP researcher based in Pakistan, working with Pyt
 
 ## Featured work
 
+### [RAG Reliability Lab](https://github.com/Owais-Idrees/rag-reliability-lab)
+An offline-first Python project for building and evaluating reliable retrieval-augmented generation pipelines. It includes paragraph-aware chunking, BM25 retrieval, stable citations, grounded extractive answers, FastAPI and CLI interfaces, Docker support, automated tests and a GitHub Actions workflow. The included benchmark measures hit rate, MRR, precision@k and citation coverage.
+
 ### [ResolveAI — Agent Arena](https://github.com/Owais-Idrees/ResolveAI-Agent-Arena)
 An instructor reference implementation for exploring agent reliability. It uses an explicit decide–validate–act–observe loop, LangChain tools, structured Pydantic decisions, bounded execution and a FastAPI endpoint. Includes sandbox tools and evaluation cases for teaching how agents act, retry and stop.
 
