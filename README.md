@@ -2,7 +2,7 @@
 
 **Python & Applied AI · Natural Language Processing · Computing Education**
 
-I am a computing lecturer and NLP researcher based in Pakistan, working with Python, machine learning and agentic AI. I enjoy turning technical ideas into understandable, practical implementations.
+I build AI systems that move beyond chat demos—agentic workflows, grounded RAG services, and full-stack products with APIs, approval controls, audit trails, and measurable reliability. Alongside engineering, I teach and research NLP, turning advanced ideas into systems teams can understand, test, and trust.
 
 **Open to remote AI/Python development, technical instruction and mentoring opportunities.**
 
