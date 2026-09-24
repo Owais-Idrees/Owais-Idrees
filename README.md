@@ -8,29 +8,28 @@ I am a computing lecturer and NLP researcher based in Pakistan, working with Pyt
 
 ## Featured work
 
+### [SupportOps AI](https://github.com/Owais-Idrees/SupportOps-AI)
+A full-stack agentic AI platform for customer-support operations. It combines a React command center, FastAPI services, SQLite persistence, policy-grounded retrieval, multi-agent case triage, risk assessment, human approval gates, audit trails, Docker Compose and automated CI.
+
 ### [RAG Reliability Engine](https://github.com/Owais-Idrees/rag-reliability-engine)
-A production-oriented Python retrieval service for building and evaluating reliable retrieval-augmented generation pipelines. It includes paragraph-aware chunking, BM25 retrieval, stable citations, grounded extractive answers, FastAPI and CLI interfaces, Docker support, automated tests and a GitHub Actions workflow. The included benchmark measures hit rate, MRR, precision@k and citation coverage.
+A production-oriented Python retrieval service for building and evaluating reliable retrieval-augmented generation pipelines with BM25, stable citations, FastAPI, Docker and automated evaluation.
 
 ### [ResolveAI — Agent Arena](https://github.com/Owais-Idrees/ResolveAI-Agent-Arena)
-An instructor reference implementation for exploring agent reliability. It uses an explicit decide–validate–act–observe loop, LangChain tools, structured Pydantic decisions, bounded execution and a FastAPI endpoint. Includes sandbox tools and evaluation cases for teaching how agents act, retry and stop.
+An instructor reference implementation for exploring agent reliability using a decide–validate–act–observe loop, LangChain tools, Pydantic decisions, bounded execution and a FastAPI endpoint.
 
 ### [Urdu Language Offence Dataset (ULOD)](https://github.com/Owais-Idrees/Urdu-Language-Offence-Dataset-ULOD-)
-A research dataset for exploring offensive language in Urdu social text. Part of my interest in language resources and context-aware NLP.
-
-### [Poetry generation using NLP](https://github.com/Owais-Idrees/Auto-Peotry-Genrating-using-NLP)
-An earlier notebook-based NLP project exploring automatic poetry generation.
-
-### [Computational projects](https://github.com/Owais-Idrees/Computational-Projects)
-Notebook-based computational intelligence experiments and learning projects.
+A research dataset for exploring offensive language in Urdu social text and context-aware NLP.
 
 ## Skills
 
 | Area | Tools and topics |
 | --- | --- |
-| Applied AI | LangChain, LangGraph, RAG, LlamaIndex, Ollama, MCP, LoRA/QLoRA |
+| Applied AI | Agent orchestration, LangChain, LangGraph, RAG, LlamaIndex, Ollama, MCP, LoRA/QLoRA |
+| Backend & delivery | FastAPI, REST APIs, SQLite, Docker, CI/CD, testing |
+| Frontend | React, Vite, responsive operations dashboards |
 | Machine learning | PyTorch, TensorFlow, Keras, scikit-learn |
 | NLP and data | NLTK, spaCy, NumPy, pandas, Matplotlib |
-| Programming | Python, C#, C, C++ |
+| Programming | Python, JavaScript, C#, C, C++ |
 
 ## Research & teaching
 
@@ -39,4 +38,4 @@ Notebook-based computational intelligence experiments and learning projects.
 - MS in Computer Science; doctoral studies in progress.
 - Co-author: *Roman Urdu Reviews Dataset for Aspect Based Opinion Mining*, IEEE/ACM ASEW, 2020.
 
-My repositories include production-oriented engineering projects, teaching references, research resources and earlier learning work. Each README states its intended scope and operational limits.
+My repositories include production-oriented engineering projects, teaching references and research resources. Each README states its intended scope and operational limits.
